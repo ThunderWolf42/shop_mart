@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "862911931391",
+    "project_id": "ecommerce-app-fb51c",
+    "storage_bucket": "ecommerce-app-fb51c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862911931391:android:846bc2662e5220a35b7dca",
+        "android_client_info": {
+          "package_name": "com.example.shop_mart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZzFnh0zDc21gh3RUyqi28gGEmSFcAucE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
